@@ -1,0 +1,11 @@
+{
+  "changelog-host": "https://atc-github.azure.cloud.bmw",
+  "extra-label": "release",
+  "packages": {
+    ".": {
+      "release-type": "python",
+      "pull-request-title-pattern": "chore(release): release v${version}",
+      "include-component-in-tag": false
+    }
+  }
+}
