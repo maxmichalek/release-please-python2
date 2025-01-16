@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://atc-github.azure.cloud.bmw/maxmichalek/release-please-python2/compare/v1.1.1...v1.2.0) (2025-01-16)
+
+
+### Features
+
+* update release please token ([ad99d4f](https://atc-github.azure.cloud.bmw/maxmichalek/release-please-python2/commit/ad99d4f1dd068e28f74effe6a2b366deaba8fc29))
+
 ## [1.1.1](https://atc-github.azure.cloud.bmw/maxmichalek/release-please-python2/compare/v1.1.0...v1.1.1) (2025-01-16)
 
 
